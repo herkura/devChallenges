@@ -26,7 +26,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/54028832/216812357-626526a6-479a-470c-adb3-44a8b7417fd9.png)
+![screenshot](https://media.giphy.com/media/W6ckdrOKJTYYLeRyy6/giphy.gif)
 
 ### Built With
 

@@ -44,7 +44,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://herkura.is-a.dev/)
-- GitHub [@your-username](https://{github.com/herkura})
+- Website [herkura.is-a.dev/](https://herkura.is-a.dev/)
+- GitHub [@herkura](https://{github.com/herkura})
 
 
